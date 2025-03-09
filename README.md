@@ -36,7 +36,7 @@ The highest number of patients belong to the 30-39 age group (68 patients), foll
 
 The lowest number of patients are in the 0-9 age group (42 patients).
 
-Departmental Referrals:
+## Departmental Referrals:
 
 General Practice received the highest number of referrals (89 patients).
 
@@ -48,7 +48,7 @@ Neurology, Renal, and Gastroenterology each had 6 patients referred.
 
 252 patients were categorized under 'None,' implying they were either treated without a departmental referral or did not require further specialist intervention.
 
-Insights & Recommendations:
+## Insights & Recommendations:
 
 The high patient satisfaction score suggests effective emergency care services.
 
